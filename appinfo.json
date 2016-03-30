@@ -1,0 +1,62 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "C\u00e9sar Guti\u00e9rrez",
+    "enableMultiJS": false,
+    "longName": "Daily Time",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/scrum_title_icon.png",
+                "name": "IMAGE_TITLE_ICON",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/image_scrum_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_SCRUM_ICON",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/image_stop.png",
+                "name": "IMAGE_STOP",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/image_pause.png",
+                "name": "IMAGE_PAUSE",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/image_play.png",
+                "name": "IMAGE_PLAY",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/image_tick.png",
+                "name": "IMAGE_TICK",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Daily Time",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0b1f153d-077b-4679-a3f7-9f1ffd7d788c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
